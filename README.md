@@ -1,4 +1,4 @@
-- # # 👋 Hi, I’m @triptichaurasia
+- #  👋 Hi, I’m @triptichaurasia
 - 👀 I’m student in AKTU University purusing B.Tech in Computer Science.
 - 🌱 I’m currently learning java Advance Programming along with Algo
 - 💞️ I’m looking to collaborate on open source projects on java or Desktop Application.
